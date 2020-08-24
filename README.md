@@ -31,8 +31,7 @@
 
 
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/UtkarshMalik1?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Twitter: UtkarshMalik](https://img.shields.io/twitter/follow/UtkarshMalik?style=social)](https://twitter.com/UtkarshMalik1)
 [![Linkedin: UtkarshMalik](https://img.shields.io/badge/Utkarsh-Malik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh-malik-410987152/)](https://www.linkedin.com/in/utkarsh-malik-410987152/)
 [![GitHub UtkarshMalik](https://img.shields.io/github/followers/Utkarshmalik99?label=follow&style=social)](https://github.com/Utkarshmalik99)
 	
