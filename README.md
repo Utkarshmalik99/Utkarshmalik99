@@ -17,7 +17,8 @@
 👔 [linkedin][linkedin]
 
 
-[twitter]: https://twitter.com/UtkarshMalik1
+
+![Twitter Follow](https://img.shields.io/twitter/follow/UtkarshMalik1?color=1DA1F2&logo=twitter&style=for-the-badge)
 [instagram]: https://www.instagram.com/utkarshmalik2531/
 [linkedin]: https://www.linkedin.com/in/utkarsh-malik-410987152/
 
