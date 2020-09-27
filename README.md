@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on Learning OOPS
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on OOPS & DP
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Tech Related Stuff
