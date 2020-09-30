@@ -17,7 +17,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Learning OOPS
+- 🔭 I’m currently working on Learning OOPs
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on OOPS & DP
 - 🤔 I’m looking for help with DSA
